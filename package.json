@@ -1,0 +1,61 @@
+{
+  "name": "minimal",
+  "displayName": "Minimal",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "keywords": [
+    "Themes",
+    "Minimal"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-color-theme.json"
+      },
+      {
+        "label": "Minimal Light",
+        "uiTheme": "vs",
+        "path": "./themes/Minimal-Light-color-theme.json"
+      },
+      {
+        "label": "Minimal Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Blue-color-theme.json"
+      },
+      {
+        "label": "Minimal Blue S",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Blue-S-color-theme.json"
+      },
+      {
+        "label": "Minimal Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Purple-color-theme.json"
+      },
+      {
+        "label": "Minimal Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Gray-color-theme.json"
+      }
+    ]
+  },
+  "icon": "img/minimal.png",
+  "author": {
+    "name": "Yes Dev",
+    "email": "yesdev19@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/yesomac/MinimalTheme.git",
+    "type": "git"
+  },
+  "publisher": "YesCode",
+  "license": "MIT"
+}
