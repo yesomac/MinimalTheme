@@ -21,9 +21,29 @@
         "path": "./themes/Minimal-color-theme.json"
       },
       {
+        "label": "Minimal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-dark-color-theme.json"
+      },
+      {
+        "label": "Minimal Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Mist-color-theme.json"
+      },
+      {
+        "label": "Minimal S",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-S-color-theme.json"
+      },
+      {
         "label": "Minimal Light",
         "uiTheme": "vs",
         "path": "./themes/Minimal-Light-color-theme.json"
+      },
+      {
+        "label": "Minimal Light Green",
+        "uiTheme": "vs",
+        "path": "./themes/Minimal-Light-Green-color-theme.json"
       },
       {
         "label": "Minimal Blue",
@@ -41,9 +61,24 @@
         "path": "./themes/Minimal-Purple-color-theme.json"
       },
       {
+        "label": "Minimal Purple Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Purple-dark-color-theme.json"
+      },
+      {
         "label": "Minimal Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Gray-color-theme.json"
+      },
+      {
+        "label": "Minimal Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Green-color-theme.json"
+      },
+      {
+        "label": "Minimal Green Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Green-dark-color-theme.json"
       }
     ]
   },
