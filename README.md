@@ -9,6 +9,15 @@
   * Minimal Purple
   * Minimal Gray
 
+#
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/minimal-2.jpg?raw=true)
+  * Minimal S
+  * Miniaml Green
+  * Miniaml Green Dark
+  * Minimal Purple S
+  * Minimal Purple Dark
+  * Minimal Mist
+
 # 
 **Fonts:**
   * Microsoft Cascadia Code
