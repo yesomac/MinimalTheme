@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -59,6 +59,11 @@
         "label": "Minimal Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Purple-color-theme.json"
+      },
+      {
+        "label": "Minimal Purple S",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Purple S-color-theme.json"
       },
       {
         "label": "Minimal Purple Dark",
