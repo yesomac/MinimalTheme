@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -21,6 +21,21 @@
         "path": "./themes/Minimal-color-theme.json"
       },
       {
+        "label": "Minimal Sober",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-color-theme.json"
+      },
+      {
+        "label": "Minimal Sobrio S",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-S-color-theme.json"
+      },
+      {
+        "label": "Minimal Light",
+        "uiTheme": "vs",
+        "path": "./themes/Minimal-Light-color-theme.json"
+      },
+      {
         "label": "Minimal Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-dark-color-theme.json"
@@ -34,11 +49,6 @@
         "label": "Minimal S",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-S-color-theme.json"
-      },
-      {
-        "label": "Minimal Light",
-        "uiTheme": "vs",
-        "path": "./themes/Minimal-Light-color-theme.json"
       },
       {
         "label": "Minimal Light Green",
@@ -84,6 +94,21 @@
         "label": "Minimal Green Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Green-dark-color-theme.json"
+      },
+      {
+        "label": "Minimal Fog",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-fog-color-theme.json"
+      },
+      {
+        "label": "Minimal Fog Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-fog-Bordered-color-theme.json"
+      },
+      {
+        "label": "Minimal Fog Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-fog-Dark-color-theme.json"
       }
     ]
   },
