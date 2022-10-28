@@ -18,6 +18,19 @@
   * Minimal Purple Dark
   * Minimal Mist
 
+
+#
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/minimal-3.jpg?raw=true)
+  * Minimal Sober
+  * Minimal Sober S
+  * Minimal Light
+
+#
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/minimal-4.jpg?raw=true)
+  * Minimal Fog
+  * Minimal Fog Bordered
+  * Minimal Fog Dark
+
 # 
 **Fonts:**
   * Microsoft Cascadia Code
