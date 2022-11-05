@@ -26,6 +26,16 @@
         "path": "./themes/Minimal-Sober-color-theme.json"
       },
       {
+        "label": "Minimal Sober Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-Bordered-color-theme.json"
+      },
+      {
+        "label": "Minimal Sober Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-Dark-color-theme.json"
+      },
+      {
         "label": "Minimal Sobrio S",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-S-color-theme.json"
