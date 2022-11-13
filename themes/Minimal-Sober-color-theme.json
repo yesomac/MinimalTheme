@@ -292,7 +292,7 @@
             "meta.function-call.arguments.python",
 			],
 			"settings": {
-				"foreground": "#ff9ff3"
+				"foreground": "#f0ade7"
 			}
 		},
 		{

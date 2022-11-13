@@ -120,7 +120,7 @@
 
     //terminal
     "terminal.background": "#1a1f24",
-    "terminal.foreground": "#8da7ff",
+    "terminal.foreground": "#98a0bb",
     "terminal.ansiBlack": "#1D2021",
     "terminal.ansiBrightBlack": "#665C54",
     "terminal.ansiBrightBlue": "#0D6678",
@@ -131,7 +131,7 @@
     "terminal.ansiBrightWhite": "#FDF4C1",
     "terminal.ansiBrightYellow": "#e7f0ff",
     "terminal.ansiBlue": "#00a1f9",
-    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiCyan": "#86ebc4",
     "terminal.ansiGreen": "#95C085",
     "terminal.ansiMagenta": "#8F4673",
     "terminal.ansiRed": "#FB543F",
@@ -228,8 +228,8 @@
     "editorBracketHighlight.foreground4": "#c294fa",
     "editorBracketHighlight.foreground5": "#c8da88",
     "editorBracketHighlight.foreground6": "#a5f7b7",
-    "editorBracketMatch.background": "#37404d",
-    "editorBracketMatch.border": "#37404d",
+    "editorBracketMatch.background": "#323741cc",
+    "editorBracketMatch.border": "#363d46",
     "editorError.border": "#b80000",
     "editorError.foreground": "#ff0000",
     "editor.findMatchHighlightBorder": "#8fc2f194",
@@ -250,7 +250,7 @@
 
     //suggest 1a1f24
     "editorSuggestWidget.background": "#1a1f24",
-    "editorSuggestWidget.selectedBackground": "#1a1f24",
+    "editorSuggestWidget.selectedBackground": "#262b31",
     "editorSuggestWidget.border": "#1a1f24",
     "editorSuggestWidget.focusHighlightForeground": "#ffea96",
     "editorSuggestWidget.foreground": "#cbdef3",
