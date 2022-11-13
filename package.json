@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -129,6 +129,11 @@
         "label": "Minimal S Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-S2-Dark-color-theme.json"
+      },
+      {
+        "label": "Minimal S Deep Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Deep-Night-color-theme.json"
       }
     ]
   },
