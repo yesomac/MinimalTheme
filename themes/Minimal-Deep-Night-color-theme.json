@@ -44,11 +44,11 @@
     "list.activeSelectionBackground": "#141313cc",
     "list.inactiveSelectionBackground": "#141313a9",
     "list.hoverBackground": "#141313cc",
-    "list.activeSelectionIconForeground": "#8dffec",
+    "list.activeSelectionIconForeground": "#d9faf7",
     "list.deemphasizedForeground": "#8da7ff",
     "list.hoverForeground": "#fff",
     "list.inactiveSelectionForeground": "#fff",
-    "list.inactiveSelectionIconForeground": "#8da7ff",
+    "list.inactiveSelectionIconForeground": "#d9faf7",
 
     //button
     "button.background": "#1b1b1b",
@@ -103,7 +103,7 @@
     "editorGroupHeader.tabsBorder": "#bdbdbd09",
     "editorGroup.border": "#bdbdbd09",
     "widget.shadow": "#cdcdcd07",
-    "icon.foreground": "#bfccf5",
+    "icon.foreground": "#d9faf7",
     "tree.indentGuidesStroke": "#6996b4",
 
     //notification
@@ -256,7 +256,7 @@
     "editorSuggestWidget.foreground": "#cbdef3",
     "editorSuggestWidget.highlightForeground": "#faffe2",
     "editorSuggestWidget.selectedForeground": "#c8e2f3",
-    "editorSuggestWidget.selectedIconForeground": "#8da7ff",
+    "editorSuggestWidget.selectedIconForeground": "#d9faf7",
 
     //breadcrumb
     "breadcrumb.background": "#000",
