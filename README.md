@@ -1,6 +1,6 @@
 # Minimal
 
-![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/minimal-theme.jpg?raw=true)
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/show/minimal-theme.jpg?raw=true)
 
 # 
   * Minimal
@@ -10,7 +10,7 @@
   * Minimal Gray
 
 #
-![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/minimal-2.jpg?raw=true)
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/show/minimal-2.jpg?raw=true)
   * Minimal S
   * Miniaml Green
   * Miniaml Green Dark
@@ -20,16 +20,20 @@
 
 
 #
-![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/minimal-3.jpg?raw=true)
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/show/minimal-3-2.jpg?raw=true)
   * Minimal Sober
   * Minimal Sober S
   * Minimal Light
 
 #
-![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/minimal-4.jpg?raw=true)
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/show/minimal-4-2.jpg?raw=true)
   * Minimal Fog
   * Minimal Fog Bordered
   * Minimal Fog Dark
+
+#
+### Minimal Dark
+![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/show/minimal-sdark.jpg?raw=true)
 
 # 
 **Fonts:**
