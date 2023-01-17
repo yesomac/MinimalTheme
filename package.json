@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -39,6 +39,11 @@
         "label": "Minimal Sobrio S",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-S-color-theme.json"
+      },
+      {
+        "label": "Minimal Sobrio S Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-S-Dark-color-theme.json"
       },
       {
         "label": "Minimal Light",
