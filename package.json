@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -41,9 +41,14 @@
         "path": "./themes/Minimal-Sober-S-color-theme.json"
       },
       {
-        "label": "Minimal Sobrio S Dark",
+        "label": "Minimal Sober S Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-S-Dark-color-theme.json"
+      },
+      {
+        "label": "Minimal-Sober-Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-S-Night-Owl-color-theme.json"
       },
       {
         "label": "Minimal Light",
