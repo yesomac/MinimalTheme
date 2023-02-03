@@ -51,7 +51,7 @@
     "list.inactiveSelectionIconForeground": "#f1ca8f",
 
     //button
-    "button.background": "#3a3e4dc2",
+    "button.background": "#1b222bc2",
     "button.secondaryBackground": "#132535",
     "button.foreground": "#ddd",
     "button.hoverBackground": "#1a436993",
