@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -36,7 +36,7 @@
         "path": "./themes/Minimal-Sober-Dark-color-theme.json"
       },
       {
-        "label": "Minimal Sobrio S",
+        "label": "Minimal Sober S",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-S-color-theme.json"
       },
@@ -151,22 +151,32 @@
         "path": "./themes/Minimal-Deep-Night-color-theme.json"
       },
       {
-        "label": "Minimal Sobrio 2",
+        "label": "Minimal Sober 2",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-2-color-theme.json"
       },
       {
-        "label": "Minimal Sobrio 2 Bordered",
+        "label": "Minimal Sober 2 Bordered",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-2-Bordered-color-theme.json"
       },
       {
-        "label": "Minimal Sobrio 2 Dark",
+        "label": "Minimal Sober 2 Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-2-Dark-color-theme.json"
       },
       {
-        "label": "Minimal Sobrio 2 Dark Bordered",
+        "label": "Minimal Sober 2 Dark S Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-2-S-Bordered-Dark-color-theme.json"
+      },
+      {
+        "label": "Minimal Sober 2 Dark S",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-2-S-Dark-color-theme.json"
+      },
+      {
+        "label": "Minimal Sober 2 Dark Bordered",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-2-Dark-Bordered-color-theme.json"
       }
