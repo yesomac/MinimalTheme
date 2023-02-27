@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -54,6 +54,11 @@
         "label": "Minimal Light",
         "uiTheme": "vs",
         "path": "./themes/Minimal-Light-color-theme.json"
+      },
+      {
+        "label": "Minimal Light S",
+        "uiTheme": "vs",
+        "path": "./themes/Minimal-Light-S-color-theme.json"
       },
       {
         "label": "Minimal Dark",
