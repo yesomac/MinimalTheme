@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -144,6 +144,26 @@
         "label": "Minimal S Deep Night",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Deep-Night-color-theme.json"
+      },
+      {
+        "label": "Minimal Sobrio 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-2-color-theme.json"
+      },
+      {
+        "label": "Minimal Sobrio 2 Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-2-Bordered-color-theme.json"
+      },
+      {
+        "label": "Minimal Sobrio 2 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-2-Dark-color-theme.json"
+      },
+      {
+        "label": "Minimal Sobrio 2 Dark Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-2-Dark-Bordered-color-theme.json"
       }
     ]
   },
