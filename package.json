@@ -2,7 +2,7 @@
   "name": "my-minimal-theme",
   "displayName": "Minimal",
   "description": "",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -179,6 +179,11 @@
         "label": "Minimal Sober 2 Dark Bordered",
         "uiTheme": "vs-dark",
         "path": "./themes/Minimal-Sober-2-Dark-Bordered-color-theme.json"
+      },
+      {
+        "label": "Minimal Sober 3 Dark Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Sober-3-Bordered-Dark-color-theme.json"
       }
     ]
   },
