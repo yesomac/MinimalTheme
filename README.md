@@ -1,8 +1,5 @@
 # Minimal
 
-### Do it today
-<https://today-63513.web.app/>
-
 ![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/show/minimal-theme.jpg?raw=true)
 
 # 
@@ -21,7 +18,7 @@
   * Minimal Purple Dark
   * Minimal Mist
 
-![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/today.png?raw=true)
+<!-- ![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/today.png?raw=true) -->
 
 #
 ![This is a image](https://github.com/yesomac/MinimalTheme/blob/main/img/show/minimal-3-2.jpg?raw=true)
@@ -48,3 +45,6 @@
 
 **Icons:**
     Symbols - https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+
+---
+##### Do it today <https://today-63513.web.app/>
